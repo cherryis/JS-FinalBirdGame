@@ -1,4 +1,5 @@
  https://cherryis.github.io/JS-FinalBirdGame/
  
+ # JavaScript
  Mouse version of catching fruits.
- I made this for my final school project in Client-Side Web Programming class(JavaScript).
+It is for my final project(PROG 209) in Client-Side Web Programming class.
